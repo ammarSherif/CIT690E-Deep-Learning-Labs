@@ -15,7 +15,7 @@ I believe building the *intuition* while learning Deep Learning is quite crucial
 - Lab 9: BERT
 - Lab 10: Generative Models [CycleGAN]
 
-# Acknowledgement
+# References
 Some of the material were inspired by the [previous material by Ahmed Hosny](https://github.com/ahosnyyy/CIT690E-DL-Course) as well as the textbook: [Modern Computer Vision with PyTorch](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch)
 
 # Contacts
